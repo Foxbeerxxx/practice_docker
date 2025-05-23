@@ -38,7 +38,10 @@ COPY . .
 RUN pip install --no-cache-dir -r requirements.txt
 CMD ["python", "not_tested_main.py"] 
 ```
-5. `Заполните здесь этапы выполнения, если требуется ....`
+5. `Запускаю docker compose up -d`
+
+![1](https://github.com/Foxbeerxxx/practice_docker/blob/main/img/img1.png)
+
 6. 
 
 ```
@@ -50,7 +53,7 @@ CMD ["python", "not_tested_main.py"]
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
+`
 
 
 ---
