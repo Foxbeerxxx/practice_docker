@@ -154,12 +154,20 @@ https://github.com/Foxbeerxxx/shvirtd-example-python
 ```
 
 
-### Задание 4
+### Задание 6
 
-`Приведите ответ в свободной форме........`
+1. `Скачивание образа Terraform`
+```
+docker pull hashicorp/terraform:latest
+```
+![7](https://github.com/Foxbeerxxx/practice_docker/blob/main/img/img7.png)
 
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
+2. `Запускаю анализ dive`
+```
+dive hashicorp/terraform:latest
+```
+![8](https://github.com/Foxbeerxxx/practice_docker/blob/main/img/img8.png)
+
 3. `Заполните здесь этапы выполнения, если требуется ....`
 4. `Заполните здесь этапы выполнения, если требуется ....`
 5. `Заполните здесь этапы выполнения, если требуется ....`
